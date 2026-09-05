@@ -1,2 +1,2 @@
 # My-first-project
-Takes basic pay 
+Takes basic pay and calculates HRA & DA
